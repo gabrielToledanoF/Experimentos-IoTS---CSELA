@@ -2,8 +2,12 @@ No dia 18 de Maio de 2024, Sábado, foi realizado um experimento de comunicaçã
 O objetivo do experimento era confirmar a viabilidade de comunicação sem fio, LoRa, entre estes três pontos. 
 O dia estava chuvoso e o bairro estava sem energia elétrica, motivo pelo qual não foi possível salvar um log das mensagens trocadas. 
 Foram utilizados dois esps32 LoRa TTGO para o experimento, um com o papel de enviar as mensagens (sender) e o outro com o papel de captar as mensagens (receiver). O receiver estava munido de um led, que acendia ao receber uma mensagem, o que possibilitou confirmar
-que havia comunicação entre os dois dispositivos. As antenas utilizadas para o experimento foram (inserir depois os modelos das antenas). 
-Na realização do experimento, o sender foi fixado na admnistração, com sua antena presa a uma janela, enquanto o receiver foi movido lentamente dentro de um carro, no trajeto visto (inserir a imagem). Durante todo o percurso houve comunicação.<br />
+que havia comunicação entre os dois dispositivos. Para o experimento foram utilizadas duas antenas Stellbras AP3900 7 dBi. <br />
+![Imagem do Sender](https://github.com/gabrielToledanoF/Experimentos-IoTS---CSELA/blob/main/Experimento%20de%20Comunica%C3%A7%C3%A3o%20(18%20-%2005%20-2024)/Imagens/esp32-lora-ttgo-sender.jpg?raw=true)
+![Imagem do Receiver](https://github.com/gabrielToledanoF/Experimentos-IoTS---CSELA/blob/main/Experimento%20de%20Comunica%C3%A7%C3%A3o%20(18%20-%2005%20-2024)/Imagens/esp32-lora-ttgo-receiver.jpg?raw=true)
+![Imagem das Antenas](https://github.com/gabrielToledanoF/Experimentos-IoTS---CSELA/blob/main/Experimento%20de%20Comunica%C3%A7%C3%A3o%20(18%20-%2005%20-2024)/Imagens/antenas-stellbras-3900-7dbi.jpg?raw=true)
+Na realização do experimento, o sender foi fixado na admnistração, com sua antena presa a uma janela, enquanto o receiver foi movido lentamente dentro de um carro, no trajeto visto abaixo, em verde. Durante todo o percurso houve comunicação.<br />
+![Area do Experimento](https://github.com/gabrielToledanoF/Experimentos-IoTS---CSELA/blob/main/Experimento%20de%20Comunica%C3%A7%C3%A3o%20(18%20-%2005%20-2024)/Imagens/area-experimento.png?raw=true)
 Pontos interessantes do experimento:<br />
   -Comunicação LoRa foi configura com Spreading Factor 12 e Coding Rate 8.<br />
   -Apesar de não marcado no trajeto, foi realizado teste de comunicação com o sender dentro da cisterna. A comunicação ocorreu sem problemas.<br />
