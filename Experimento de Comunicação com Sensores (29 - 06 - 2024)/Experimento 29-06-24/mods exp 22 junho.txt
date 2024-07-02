@@ -1,0 +1,7 @@
+ModificaçÕes feitas para o experimento do dia 22/06
+
+-Bibioteca LoRa do RASP foi modificada para seguir o cabeçalho utilizado na biblioteca do ESP
+
+-Biblioteca do thermistor modificada para retornar Celsius em float (ao em vez de 1/10 celsiu em int)
+
+-biblioteca gravity tds, que dava erro por tentar utilizar protas analogicas do arduino

@@ -1,0 +1,616 @@
+rbp-01@raspberrypi:~/Desktop $ sudo python3 experimento_gateway_lora.py 
+
+
+
+From: 30
+Received: b'24.07\xc2\xbaC;pH -0.15;0.00ppm;2434.80ntu;'
+Msg: 0
+
+RSSI: -96; SNR: 1.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.07\xc2\xbaC;pH -0.15;0.00ppm;2434.80ntu;'
+Msg: 0
+
+RSSI: -98; SNR: 0.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'23.89\xc2\xbaC;pH 1.04;0.00ppm;2697.07ntu;'
+Msg: 1
+
+RSSI: -101; SNR: -9.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'23.89\xc2\xbaC;pH 1.04;0.00ppm;2697.07ntu;'
+Msg: 1
+
+RSSI: -94; SNR: 6.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'23.99\xc2\xbaC;pH 2.86;0.00ppm;2746.29ntu;'
+Msg: 2
+
+RSSI: -99; SNR: 1.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'23.99\xc2\xbaC;pH 2.86;0.00ppm;2746.29ntu;'
+Msg: 2
+
+RSSI: -96; SNR: -3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+
+
+
+
+
+From: 30
+Received: b'24.07\xc2\xbaC;pH 2.27;0.00ppm;2705.16ntu;'
+Msg: 3
+
+RSSI: -95; SNR: 5.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.07\xc2\xbaC;pH 2.27;0.00ppm;2705.16ntu;'
+Msg: 3
+
+RSSI: -96; SNR: 4.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+
+
+
+
+[
+From: 30
+Received: b'23.85\xc2\xbaC;pH 1.87;0.00ppm;2742.42ntu;'
+Msg: 4
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'23.85\xc2\xbaC;pH 1.87;0.00ppm;2742.42ntu;'
+Msg: 4
+
+RSSI: -98; SNR: 2.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+From: 30
+Received: b'24.35\xc2\xbaC;pH 2.38;0.00ppm;2810.62ntu;'
+Msg: 5
+
+RSSI: -97; SNR: 3.25
+esperando packet send
+esperando packet send
+
+
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+
+
+
+
+
+
+
+From: 30
+Received: b'24.35\xc2\xbaC;pH 2.38;0.00ppm;2810.62ntu;'
+Msg: 5
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.12\xc2\xbaC;pH 3.38;0.00ppm;2590.55ntu;'
+Msg: 6
+
+RSSI: -97; SNR: 3.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.12\xc2\xbaC;pH 3.38;0.00ppm;2590.55ntu;'
+Msg: 6
+
+RSSI: -97; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+
+
+
+
+From: 30
+Received: b'24.36\xc2\xbaC;pH 4.25;0.00ppm;2765.27ntu;'
+Msg: 7
+
+RSSI: -96; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.36\xc2\xbaC;pH 4.25;0.00ppm;2765.27ntu;'
+Msg: 7
+
+RSSI: -95; SNR: 4.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+From: 30
+Received: b'24.52\xc2\xbaC;pH 3.39;0.00ppm;2691.09ntu;'
+Msg: 8
+
+RSSI: -96; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+
+
+
+From: 30
+Received: b'24.52\xc2\xbaC;pH 3.39;0.00ppm;2691.09ntu;'
+Msg: 8
+
+RSSI: -97; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.69\xc2\xbaC;pH 3.39;0.00ppm;2610.94ntu;'
+Msg: 9
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.69\xc2\xbaC;pH 3.39;0.00ppm;2610.94ntu;'
+Msg: 9
+
+RSSI: -97; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.57\xc2\xbaC;pH 3.74;0.00ppm;2661.91ntu;'
+Msg: 10
+
+RSSI: -96; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.57\xc2\xbaC;pH 3.74;0.00ppm;2661.91ntu;'
+Msg: 10
+
+RSSI: -96; SNR: 5.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.59\xc2\xbaC;pH 3.58;0.00ppm;2638.01ntu;'
+Msg: 11
+
+RSSI: -96; SNR: 4.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.59\xc2\xbaC;pH 3.58;0.00ppm;2638.01ntu;'
+Msg: 11
+
+RSSI: -97; SNR: 3.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.58\xc2\xbaC;pH 4.87;0.00ppm;2626.05ntu;'
+Msg: 12
+
+RSSI: -96; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.58\xc2\xbaC;pH 4.87;0.00ppm;2626.05ntu;'
+Msg: 12
+
+RSSI: -96; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.49\xc2\xbaC;pH 5.13;0.00ppm;2815.20ntu;'
+Msg: 13
+
+RSSI: -96; SNR: 4.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.49\xc2\xbaC;pH 5.13;0.00ppm;2815.20ntu;'
+Msg: 13
+
+RSSI: -96; SNR: 4.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.19\xc2\xbaC;pH 3.71;0.00ppm;2681.95ntu;'
+Msg: 14
+
+RSSI: -97; SNR: 3.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.19\xc2\xbaC;pH 3.71;0.00ppm;2681.95ntu;'
+Msg: 14
+
+RSSI: -96; SNR: 3.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.33\xc2\xbaC;pH 4.89;0.00ppm;2653.12ntu;'
+Msg: 15
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.33\xc2\xbaC;pH 4.89;0.00ppm;2653.12ntu;'
+Msg: 15
+
+RSSI: -96; SNR: 2.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.33\xc2\xbaC;pH 4.54;0.00ppm;2574.73ntu;'
+Msg: 16
+
+RSSI: -96; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.33\xc2\xbaC;pH 4.54;0.00ppm;2574.73ntu;'
+Msg: 16
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+From: 30
+Received: b'24.34\xc2\xbaC;pH 3.61;0.00ppm;2582.46ntu;'
+Msg: 17
+
+RSSI: -97; SNR: 3.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+
+From: 30
+Received: b'24.34\xc2\xbaC;pH 3.61;0.00ppm;2582.46ntu;'
+Msg: 17
+
+RSSI: -96; SNR: 4.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.44\xc2\xbaC;pH 4.28;0.00ppm;2555.74ntu;'
+Msg: 18
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.44\xc2\xbaC;pH 4.28;0.00ppm;2555.74ntu;'
+Msg: 18
+
+RSSI: -95; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.45\xc2\xbaC;pH 4.40;0.00ppm;2951.60ntu;'
+Msg: 19
+
+RSSI: -98; SNR: 2.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.45\xc2\xbaC;pH 4.40;0.00ppm;2951.60ntu;'
+Msg: 19
+
+RSSI: -96; SNR: 3.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.48\xc2\xbaC;pH 5.12;0.00ppm;3256.76ntu;'
+Msg: 20
+
+RSSI: -95; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.48\xc2\xbaC;pH 5.12;0.00ppm;3256.76ntu;'
+Msg: 20
+
+RSSI: -99; SNR: 0.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+From: 30
+Received: b'24.18\xc2\xbaC;pH 5.20;0.00ppm;2951.60ntu;'
+Msg: 21
+
+RSSI: -98; SNR: 0.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.18\xc2\xbaC;pH 5.20;0.00ppm;2951.60ntu;'
+Msg: 21
+
+RSSI: -97; SNR: 2.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.49\xc2\xbaC;pH 4.43;0.00ppm;3195.94ntu;'
+Msg: 22
+
+RSSI: -96; SNR: 3.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.49\xc2\xbaC;pH 4.43;0.00ppm;3195.94ntu;'
+Msg: 22
+
+RSSI: -97; SNR: 3.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.27\xc2\xbaC;pH 5.25;0.00ppm;3123.16ntu;'
+Msg: 23
+
+RSSI: -96; SNR: 4.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.27\xc2\xbaC;pH 5.25;0.00ppm;3123.16ntu;'
+Msg: 23
+
+RSSI: -97; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.42\xc2\xbaC;pH 4.64;0.00ppm;3084.49ntu;'
+Msg: 24
+
+RSSI: -98; SNR: 2.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.42\xc2\xbaC;pH 4.64;0.00ppm;3084.49ntu;'
+Msg: 24
+
+RSSI: -97; SNR: 3.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.34\xc2\xbaC;pH 3.94;0.00ppm;3136.88ntu;'
+Msg: 25
+
+RSSI: -98; SNR: 2.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.34\xc2\xbaC;pH 3.94;0.00ppm;3136.88ntu;'
+Msg: 25
+
+RSSI: -97; SNR: 2.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.42\xc2\xbaC;pH 7.51;0.00ppm;3121.76ntu;'
+Msg: 26
+
+RSSI: -97; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.42\xc2\xbaC;pH 7.51;0.00ppm;3121.76ntu;'
+Msg: 26
+
+RSSI: -97; SNR: 3.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.48\xc2\xbaC;pH 56.36;0.00ppm;7687.50ntu;'
+Msg: 27
+
+RSSI: -97; SNR: 2.75
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.48\xc2\xbaC;pH 56.36;0.00ppm;7687.50ntu;'
+Msg: 27
+
+RSSI: -96; SNR: 3.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+From: 30
+Received: b'24.45\xc2\xbaC;pH 4.68;0.00ppm;2206.64ntu;'
+Msg: 28
+
+RSSI: -96; SNR: 4.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.45\xc2\xbaC;pH 4.68;0.00ppm;2206.64ntu;'
+Msg: 28
+
+RSSI: -96; SNR: 4.5
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+From: 30
+Received: b'24.21\xc2\xbaC;pH 4.68;0.00ppm;2206.64ntu;'
+Msg: 29
+
+RSSI: -97; SNR: 2.25
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+
+From: 30
+Received: b'24.21\xc2\xbaC;pH 4.68;0.00ppm;2206.64ntu;'
+Msg: 29
+
+RSSI: -97; SNR: 3.0
+esperando packet send
+esperando packet send
+esperando packet send
+ACK SENT to 
+
+

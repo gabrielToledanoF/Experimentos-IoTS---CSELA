@@ -1,0 +1,428 @@
+11:02:38.134 -> Spreading Factor: 12
+11:02:38.134 -> Coding Rate: 8
+11:02:38.134 -> Bandwidth: 125000
+11:02:38.134 -> LoRa init succeeded.
+11:02:38.134 -> Getting single-ended readings from AIN0
+11:02:38.134 -> ADC Range: +/- 6.144V (1 bit = 3mV/ADS1015, 0.1875mV/ADS1115)
+11:02:38.515 -> Inicializando Transmissão, id 0
+11:02:38.515 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:02:51.274 -> Inicializando Transmissão, id 0
+11:02:51.274 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:03:04.003 -> Inicializando Transmissão, id 0
+11:03:04.003 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:03:16.792 -> Inicializando Transmissão, id 0
+11:03:16.792 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:03:29.544 -> Inicializando Transmissão, id 0
+11:03:29.544 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:03:42.308 -> Inicializando Transmissão, id 0
+11:03:42.310 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:03:55.055 -> Inicializando Transmissão, id 0
+11:03:55.055 -> Mensagem: 25.89ºC;pH 21.20;0.00ppm;3320.74ntu;
+11:34:20.936 -> Inicializando Transmissão, id 0
+11:34:20.936 -> Mensagem: 24.07ºC;pH -0.15;0.00ppm;2434.80ntu;
+11:34:23.749 -> 2
+11:34:23.749 -> Received from: 0x1e
+11:34:23.749 -> Sent to: 0xff
+11:34:23.749 -> Message ID: 0
+11:34:23.749 -> Message length: 37
+11:34:23.749 -> Message: 2
+11:34:23.749 -> RSSI: -119
+11:34:23.749 -> Snr: 5.75
+11:34:23.749 -> 
+11:34:36.831 -> Inicializando Transmissão, id 1
+11:34:36.831 -> Mensagem: 23.89ºC;pH 1.04;0.00ppm;2697.07ntu;
+11:34:49.577 -> Inicializando Transmissão, id 1
+11:34:49.577 -> Mensagem: 23.89ºC;pH 1.04;0.00ppm;2697.07ntu;
+11:34:52.344 -> 2
+11:34:52.344 -> Received from: 0x1e
+11:34:52.344 -> Sent to: 0xff
+11:34:52.344 -> Message ID: 1
+11:34:52.344 -> Message length: 36
+11:34:52.344 -> Message: 2
+11:34:52.344 -> RSSI: -117
+11:34:52.344 -> Snr: 6.50
+11:34:52.344 -> 
+11:35:05.460 -> Inicializando Transmissão, id 2
+11:35:05.460 -> Mensagem: 23.99ºC;pH 2.86;0.00ppm;2746.29ntu;
+11:35:18.242 -> Inicializando Transmissão, id 2
+11:35:18.242 -> Mensagem: 23.99ºC;pH 2.86;0.00ppm;2746.29ntu;
+11:35:21.008 -> 2
+11:35:21.008 -> Received from: 0x1e
+11:35:21.008 -> Sent to: 0xff
+11:35:21.008 -> Message ID: 2
+11:35:21.008 -> Message length: 36
+11:35:21.008 -> Message: 2
+11:35:21.008 -> RSSI: -117
+11:35:21.008 -> Snr: 6.25
+11:35:21.008 -> 
+11:35:34.127 -> Inicializando Transmissão, id 3
+11:35:34.127 -> Mensagem: 24.07ºC;pH 2.27;0.00ppm;2705.16ntu;
+11:35:46.888 -> Inicializando Transmissão, id 3
+11:35:46.888 -> Mensagem: 24.07ºC;pH 2.27;0.00ppm;2705.16ntu;
+11:35:49.637 -> 2
+11:35:49.637 -> Received from: 0x1e
+11:35:49.637 -> Sent to: 0xff
+11:35:49.637 -> Message ID: 3
+11:35:49.637 -> Message length: 36
+11:35:49.637 -> Message: 2
+11:35:49.637 -> RSSI: -117
+11:35:49.637 -> Snr: 7.25
+11:35:49.637 -> 
+11:36:02.767 -> Inicializando Transmissão, id 4
+11:36:02.767 -> Mensagem: 23.85ºC;pH 1.87;0.00ppm;2742.42ntu;
+11:36:15.497 -> Inicializando Transmissão, id 4
+11:36:15.497 -> Mensagem: 23.85ºC;pH 1.87;0.00ppm;2742.42ntu;
+11:36:18.279 -> 2
+11:36:18.279 -> Received from: 0x1e
+11:36:18.279 -> Sent to: 0xff
+11:36:18.279 -> Message ID: 4
+11:36:18.279 -> Message length: 36
+11:36:18.279 -> Message: 2
+11:36:18.279 -> RSSI: -118
+11:36:18.279 -> Snr: 6.75
+11:36:18.279 -> 
+11:36:31.407 -> Inicializando Transmissão, id 5
+11:36:31.407 -> Mensagem: 24.35ºC;pH 2.38;0.00ppm;2810.62ntu;
+11:36:44.139 -> Inicializando Transmissão, id 5
+11:36:44.139 -> Mensagem: 24.35ºC;pH 2.38;0.00ppm;2810.62ntu;
+11:36:46.933 -> 2
+11:36:46.933 -> Received from: 0x1e
+11:36:46.933 -> Sent to: 0xff
+11:36:46.933 -> Message ID: 5
+11:36:46.933 -> Message length: 36
+11:36:46.933 -> Message: 2
+11:36:46.933 -> RSSI: -117
+11:36:46.933 -> Snr: 6.25
+11:36:46.933 -> 
+11:37:00.047 -> Inicializando Transmissão, id 6
+11:37:00.047 -> Mensagem: 24.12ºC;pH 3.38;0.00ppm;2590.55ntu;
+11:37:12.797 -> Inicializando Transmissão, id 6
+11:37:12.797 -> Mensagem: 24.12ºC;pH 3.38;0.00ppm;2590.55ntu;
+11:37:15.542 -> 2
+11:37:15.542 -> Received from: 0x1e
+11:37:15.542 -> Sent to: 0xff
+11:37:15.542 -> Message ID: 6
+11:37:15.542 -> Message length: 36
+11:37:15.542 -> Message: 2
+11:37:15.542 -> RSSI: -118
+11:37:15.542 -> Snr: 5.50
+11:37:15.542 -> 
+11:37:28.655 -> Inicializando Transmissão, id 7
+11:37:28.655 -> Mensagem: 24.36ºC;pH 4.25;0.00ppm;2765.27ntu;
+11:37:41.421 -> Inicializando Transmissão, id 7
+11:37:41.421 -> Mensagem: 24.36ºC;pH 4.25;0.00ppm;2765.27ntu;
+11:37:44.211 -> 2
+11:37:44.211 -> Received from: 0x1e
+11:37:44.211 -> Sent to: 0xff
+11:37:44.211 -> Message ID: 7
+11:37:44.211 -> Message length: 36
+11:37:44.211 -> Message: 2
+11:37:44.211 -> RSSI: -119
+11:37:44.211 -> Snr: 6.00
+11:37:44.211 -> 
+11:37:57.303 -> Inicializando Transmissão, id 8
+11:37:57.303 -> Mensagem: 24.52ºC;pH 3.39;0.00ppm;2691.09ntu;
+11:38:10.087 -> Inicializando Transmissão, id 8
+11:38:10.087 -> Mensagem: 24.52ºC;pH 3.39;0.00ppm;2691.09ntu;
+11:38:12.852 -> 2
+11:38:12.852 -> Received from: 0x1e
+11:38:12.852 -> Sent to: 0xff
+11:38:12.852 -> Message ID: 8
+11:38:12.852 -> Message length: 36
+11:38:12.852 -> Message: 2
+11:38:12.852 -> RSSI: -117
+11:38:12.852 -> Snr: 6.00
+11:38:12.852 -> 
+11:38:25.968 -> Inicializando Transmissão, id 9
+11:38:25.968 -> Mensagem: 24.69ºC;pH 3.39;0.00ppm;2610.94ntu;
+11:38:38.693 -> Inicializando Transmissão, id 9
+11:38:38.749 -> Mensagem: 24.69ºC;pH 3.39;0.00ppm;2610.94ntu;
+11:38:41.459 -> 2
+11:38:41.459 -> Received from: 0x1e
+11:38:41.459 -> Sent to: 0xff
+11:38:41.459 -> Message ID: 9
+11:38:41.459 -> Message length: 36
+11:38:41.459 -> Message: 2
+11:38:41.459 -> RSSI: -118
+11:38:41.459 -> Snr: 6.75
+11:38:41.459 -> 
+11:38:54.613 -> Inicializando Transmissão, id 10
+11:38:54.613 -> Mensagem: 24.57ºC;pH 3.74;0.00ppm;2661.91ntu;
+11:39:07.375 -> Inicializando Transmissão, id 10
+11:39:07.375 -> Mensagem: 24.57ºC;pH 3.74;0.00ppm;2661.91ntu;
+11:39:10.116 -> 2
+11:39:10.116 -> Received from: 0x1e
+11:39:10.116 -> Sent to: 0xff
+11:39:10.116 -> Message ID: 10
+11:39:10.116 -> Message length: 36
+11:39:10.116 -> Message: 2
+11:39:10.116 -> RSSI: -118
+11:39:10.116 -> Snr: 5.75
+11:39:10.116 -> 
+11:39:23.213 -> Inicializando Transmissão, id 11
+11:39:23.213 -> Mensagem: 24.59ºC;pH 3.58;0.00ppm;2638.01ntu;
+11:39:35.991 -> Inicializando Transmissão, id 11
+11:39:35.991 -> Mensagem: 24.59ºC;pH 3.58;0.00ppm;2638.01ntu;
+11:39:38.738 -> 2
+11:39:38.738 -> Received from: 0x1e
+11:39:38.738 -> Sent to: 0xff
+11:39:38.738 -> Message ID: 11
+11:39:38.738 -> Message length: 36
+11:39:38.738 -> Message: 2
+11:39:38.738 -> RSSI: -117
+11:39:38.738 -> Snr: 6.25
+11:39:38.738 -> 
+11:39:51.851 -> Inicializando Transmissão, id 12
+11:39:51.851 -> Mensagem: 24.58ºC;pH 4.87;0.00ppm;2626.05ntu;
+11:40:04.614 -> Inicializando Transmissão, id 12
+11:40:04.614 -> Mensagem: 24.58ºC;pH 4.87;0.00ppm;2626.05ntu;
+11:40:07.407 -> 2
+11:40:07.407 -> Received from: 0x1e
+11:40:07.407 -> Sent to: 0xff
+11:40:07.407 -> Message ID: 12
+11:40:07.407 -> Message length: 36
+11:40:07.407 -> Message: 2
+11:40:07.407 -> RSSI: -117
+11:40:07.407 -> Snr: 6.50
+11:40:07.407 -> 
+11:40:20.515 -> Inicializando Transmissão, id 13
+11:40:20.515 -> Mensagem: 24.49ºC;pH 5.13;0.00ppm;2815.20ntu;
+11:40:33.280 -> Inicializando Transmissão, id 13
+11:40:33.280 -> Mensagem: 24.49ºC;pH 5.13;0.00ppm;2815.20ntu;
+11:40:36.040 -> 2
+11:40:36.040 -> Received from: 0x1e
+11:40:36.040 -> Sent to: 0xff
+11:40:36.040 -> Message ID: 13
+11:40:36.040 -> Message length: 36
+11:40:36.040 -> Message: 2
+11:40:36.040 -> RSSI: -119
+11:40:36.040 -> Snr: 5.50
+11:40:36.040 -> 
+11:40:49.177 -> Inicializando Transmissão, id 14
+11:40:49.177 -> Mensagem: 24.19ºC;pH 3.71;0.00ppm;2681.95ntu;
+11:41:01.921 -> Inicializando Transmissão, id 14
+11:41:01.921 -> Mensagem: 24.19ºC;pH 3.71;0.00ppm;2681.95ntu;
+11:41:04.685 -> 2
+11:41:04.685 -> Received from: 0x1e
+11:41:04.685 -> Sent to: 0xff
+11:41:04.685 -> Message ID: 14
+11:41:04.685 -> Message length: 36
+11:41:04.685 -> Message: 2
+11:41:04.685 -> RSSI: -119
+11:41:04.685 -> Snr: 5.25
+11:41:04.685 -> 
+11:41:17.802 -> Inicializando Transmissão, id 15
+11:41:17.802 -> Mensagem: 24.33ºC;pH 4.89;0.00ppm;2653.12ntu;
+11:41:30.537 -> Inicializando Transmissão, id 15
+11:41:30.537 -> Mensagem: 24.33ºC;pH 4.89;0.00ppm;2653.12ntu;
+11:41:33.314 -> 2
+11:41:33.314 -> Received from: 0x1e
+11:41:33.314 -> Sent to: 0xff
+11:41:33.314 -> Message ID: 15
+11:41:33.314 -> Message length: 36
+11:41:33.314 -> Message: 2
+11:41:33.314 -> RSSI: -117
+11:41:33.314 -> Snr: 6.25
+11:41:33.314 -> 
+11:41:46.409 -> Inicializando Transmissão, id 16
+11:41:46.409 -> Mensagem: 24.33ºC;pH 4.54;0.00ppm;2574.73ntu;
+11:41:59.171 -> Inicializando Transmissão, id 16
+11:41:59.171 -> Mensagem: 24.33ºC;pH 4.54;0.00ppm;2574.73ntu;
+11:42:01.938 -> 2
+11:42:01.938 -> Received from: 0x1e
+11:42:01.938 -> Sent to: 0xff
+11:42:01.938 -> Message ID: 16
+11:42:01.938 -> Message length: 36
+11:42:01.938 -> Message: 2
+11:42:01.938 -> RSSI: -117
+11:42:01.938 -> Snr: 6.00
+11:42:01.938 -> 
+11:42:15.096 -> Inicializando Transmissão, id 17
+11:42:15.096 -> Mensagem: 24.34ºC;pH 3.61;0.00ppm;2582.46ntu;
+11:42:27.813 -> Inicializando Transmissão, id 17
+11:42:27.813 -> Mensagem: 24.34ºC;pH 3.61;0.00ppm;2582.46ntu;
+11:42:30.592 -> 2
+11:42:30.592 -> Received from: 0x1e
+11:42:30.592 -> Sent to: 0xff
+11:42:30.592 -> Message ID: 17
+11:42:30.592 -> Message length: 36
+11:42:30.592 -> Message: 2
+11:42:30.592 -> RSSI: -118
+11:42:30.592 -> Snr: 5.50
+11:42:30.592 -> 
+11:42:43.705 -> Inicializando Transmissão, id 18
+11:42:43.705 -> Mensagem: 24.44ºC;pH 4.28;0.00ppm;2555.74ntu;
+11:42:56.486 -> Inicializando Transmissão, id 18
+11:42:56.486 -> Mensagem: 24.44ºC;pH 4.28;0.00ppm;2555.74ntu;
+11:42:59.249 -> 2
+11:42:59.249 -> Received from: 0x1e
+11:42:59.249 -> Sent to: 0xff
+11:42:59.249 -> Message ID: 18
+11:42:59.249 -> Message length: 36
+11:42:59.249 -> Message: 2
+11:42:59.249 -> RSSI: -117
+11:42:59.249 -> Snr: 6.00
+11:42:59.249 -> 
+11:43:12.401 -> Inicializando Transmissão, id 19
+11:43:12.401 -> Mensagem: 24.45ºC;pH 4.40;0.00ppm;2951.60ntu;
+11:43:25.145 -> Inicializando Transmissão, id 19
+11:43:25.145 -> Mensagem: 24.45ºC;pH 4.40;0.00ppm;2951.60ntu;
+11:43:27.894 -> 2
+11:43:27.894 -> Received from: 0x1e
+11:43:27.894 -> Sent to: 0xff
+11:43:27.894 -> Message ID: 19
+11:43:27.894 -> Message length: 36
+11:43:27.894 -> Message: 2
+11:43:27.894 -> RSSI: -118
+11:43:27.894 -> Snr: 5.50
+11:43:27.894 -> 
+11:43:41.007 -> Inicializando Transmissão, id 20
+11:43:41.007 -> Mensagem: 24.48ºC;pH 5.12;0.00ppm;3256.76ntu;
+11:43:53.805 -> Inicializando Transmissão, id 20
+11:43:53.805 -> Mensagem: 24.48ºC;pH 5.12;0.00ppm;3256.76ntu;
+11:43:56.562 -> 2
+11:43:56.562 -> Received from: 0x1e
+11:43:56.562 -> Sent to: 0xff
+11:43:56.562 -> Message ID: 20
+11:43:56.562 -> Message length: 36
+11:43:56.562 -> Message: 2
+11:43:56.562 -> RSSI: -118
+11:43:56.562 -> Snr: 6.50
+11:43:56.562 -> 
+11:44:09.664 -> Inicializando Transmissão, id 21
+11:44:09.664 -> Mensagem: 24.18ºC;pH 5.20;0.00ppm;2951.60ntu;
+11:44:22.441 -> Inicializando Transmissão, id 21
+11:44:22.441 -> Mensagem: 24.18ºC;pH 5.20;0.00ppm;2951.60ntu;
+11:44:25.205 -> 2
+11:44:25.205 -> Received from: 0x1e
+11:44:25.205 -> Sent to: 0xff
+11:44:25.205 -> Message ID: 21
+11:44:25.205 -> Message length: 36
+11:44:25.205 -> Message: 2
+11:44:25.205 -> RSSI: -121
+11:44:25.205 -> Snr: 4.75
+11:44:25.205 -> 
+11:44:38.327 -> Inicializando Transmissão, id 22
+11:44:38.327 -> Mensagem: 24.49ºC;pH 4.43;0.00ppm;3195.94ntu;
+11:44:51.103 -> Inicializando Transmissão, id 22
+11:44:51.103 -> Mensagem: 24.49ºC;pH 4.43;0.00ppm;3195.94ntu;
+11:44:53.849 -> 2
+11:44:53.849 -> Received from: 0x1e
+11:44:53.849 -> Sent to: 0xff
+11:44:53.849 -> Message ID: 22
+11:44:53.849 -> Message length: 36
+11:44:53.849 -> Message: 2
+11:44:53.849 -> RSSI: -119
+11:44:53.849 -> Snr: 5.50
+11:44:53.849 -> 
+11:45:07.007 -> Inicializando Transmissão, id 23
+11:45:07.008 -> Mensagem: 24.27ºC;pH 5.25;0.00ppm;3123.16ntu;
+11:45:19.742 -> Inicializando Transmissão, id 23
+11:45:19.742 -> Mensagem: 24.27ºC;pH 5.25;0.00ppm;3123.16ntu;
+11:45:22.524 -> 2
+11:45:22.524 -> Received from: 0x1e
+11:45:22.524 -> Sent to: 0xff
+11:45:22.524 -> Message ID: 23
+11:45:22.524 -> Message length: 36
+11:45:22.524 -> Message: 2
+11:45:22.524 -> RSSI: -117
+11:45:22.524 -> Snr: 6.75
+11:45:22.524 -> 
+11:45:35.636 -> Inicializando Transmissão, id 24
+11:45:35.636 -> Mensagem: 24.42ºC;pH 4.64;0.00ppm;3084.49ntu;
+11:45:48.382 -> Inicializando Transmissão, id 24
+11:45:48.382 -> Mensagem: 24.42ºC;pH 4.64;0.00ppm;3084.49ntu;
+11:45:51.159 -> 2
+11:45:51.159 -> Received from: 0x1e
+11:45:51.159 -> Sent to: 0xff
+11:45:51.159 -> Message ID: 24
+11:45:51.159 -> Message length: 36
+11:45:51.159 -> Message: 2
+11:45:51.159 -> RSSI: -119
+11:45:51.159 -> Snr: 5.25
+11:45:51.159 -> 
+11:46:04.499 -> Inicializando Transmissão, id 25
+11:46:04.499 -> Mensagem: 24.34ºC;pH 3.94;0.00ppm;3136.88ntu;
+11:46:17.258 -> Inicializando Transmissão, id 25
+11:46:17.258 -> Mensagem: 24.34ºC;pH 3.94;0.00ppm;3136.88ntu;
+11:46:20.007 -> 2
+11:46:20.007 -> Received from: 0x1e
+11:46:20.007 -> Sent to: 0xff
+11:46:20.007 -> Message ID: 25
+11:46:20.007 -> Message length: 36
+11:46:20.007 -> Message: 2
+11:46:20.007 -> RSSI: -118
+11:46:20.007 -> Snr: 5.25
+11:46:20.007 -> 
+11:46:39.396 -> Inicializando Transmissão, id 26
+11:46:39.396 -> Mensagem: 24.42ºC;pH 7.51;0.00ppm;3121.76ntu;
+11:46:52.175 -> Inicializando Transmissão, id 26
+11:46:52.175 -> Mensagem: 24.42ºC;pH 7.51;0.00ppm;3121.76ntu;
+11:46:54.923 -> 2
+11:46:54.923 -> Received from: 0x1e
+11:46:54.923 -> Sent to: 0xff
+11:46:54.923 -> Message ID: 26
+11:46:54.923 -> Message length: 36
+11:46:54.923 -> Message: 2
+11:46:54.923 -> RSSI: -118
+11:46:54.923 -> Snr: 5.75
+11:46:54.923 -> 
+11:47:08.037 -> Inicializando Transmissão, id 27
+11:47:08.037 -> Mensagem: 24.48ºC;pH 56.36;0.00ppm;7687.50ntu;
+11:47:20.803 -> Inicializando Transmissão, id 27
+11:47:20.803 -> Mensagem: 24.48ºC;pH 56.36;0.00ppm;7687.50ntu;
+11:47:23.553 -> 2
+11:47:23.553 -> Received from: 0x1e
+11:47:23.553 -> Sent to: 0xff
+11:47:23.553 -> Message ID: 27
+11:47:23.553 -> Message length: 37
+11:47:23.553 -> Message: 2
+11:47:23.553 -> RSSI: -119
+11:47:23.553 -> Snr: 4.75
+11:47:23.553 -> 
+11:47:41.905 -> Inicializando Transmissão, id 28
+11:47:41.905 -> Mensagem: 24.45ºC;pH 4.68;0.00ppm;2206.64ntu;
+11:47:54.650 -> Inicializando Transmissão, id 28
+11:47:54.650 -> Mensagem: 24.45ºC;pH 4.68;0.00ppm;2206.64ntu;
+11:47:57.438 -> 2
+11:47:57.438 -> Received from: 0x1e
+11:47:57.438 -> Sent to: 0xff
+11:47:57.438 -> Message ID: 28
+11:47:57.438 -> Message length: 36
+11:47:57.438 -> Message: 2
+11:47:57.438 -> RSSI: -119
+11:47:57.438 -> Snr: 6.00
+11:47:57.438 -> 
+11:48:17.648 -> Inicializando Transmissão, id 29
+11:48:17.648 -> Mensagem: 24.21ºC;pH 4.68;0.00ppm;2206.64ntu;
+11:48:30.395 -> Inicializando Transmissão, id 29
+11:46:54.923 -> 
+11:47:08.037 -> Inicializando Transmissão, id 27
+11:47:08.037 -> Mensagem: 24.48ºC;pH 56.36;0.00ppm;7687.50ntu;
+11:47:20.803 -> Inicializando Transmissão, id 27
+11:47:20.803 -> Mensagem: 24.48ºC;pH 56.36;0.00ppm;7687.50ntu;
+11:47:23.553 -> 2
+11:47:23.553 -> Received from: 0x1e
+11:47:23.553 -> Sent to: 0xff
+11:47:23.553 -> Message ID: 27
+11:47:23.553 -> Message length: 37
+11:47:23.553 -> Message: 2
+11:47:23.553 -> RSSI: -119
+11:47:23.553 -> Snr: 4.75
+11:47:23.553 -> 
+11:47:41.905 -> Inicializando Transmissão, id 28
+11:47:41.905 -> Mensagem: 24.45ºC;pH 4.68;0.00ppm;2206.64ntu;
+11:47:54.650 -> Inicializando Transmissão, id 28
+11:47:54.650 -> Mensagem: 24.45ºC;pH 4.68;0.00ppm;2206.64ntu;
+11:47:57.438 -> 2
+11:47:57.438 -> Received from: 0x1e
+11:47:57.438 -> Sent to: 0xff
+11:47:57.438 -> Message ID: 28
+11:47:57.438 -> Message length: 36
+11:47:57.438 -> Message: 2
+11:47:57.438 -> RSSI: -119
+11:47:57.438 -> Snr: 6.00
+11:47:57.438 -> 
+11:48:17.648 -> Inicializando Transmissão, id 29
+11:48:17.648 -> Mensagem: 24.21ºC;pH 4.68;0.00ppm;2206.64ntu;
+11:48:30.395 -> Inicializando Transmissão, id 29
